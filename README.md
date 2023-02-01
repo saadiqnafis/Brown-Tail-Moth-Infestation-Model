@@ -1,4 +1,4 @@
-# Brown-Tail-Moth-Infestation-Model
+# Brown Tail Moth Infestation Model
 
 
 Brown Tail Moth, one of Maine's most troublesome species, were accidentally introduced to New England from Europe in 1897. These insects usually affect the trees, but as they are covered with toxic hairs, they can cause skin rash and breathing problems in humans who come in contact with them. 
