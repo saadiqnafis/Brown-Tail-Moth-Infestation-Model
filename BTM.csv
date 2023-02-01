@@ -1,0 +1,933 @@
+Tree ID,Longitude,Latitude,Common Name,Condition Class / Infestation Pattern,List of Trees on  residential property,BTM positive trees self reported  on residential property,Number of BTM positive Tree Species on property,Dbh 1. inches,Dbh 2,Dbh 3,Dbh 4,Dbh 5,Dbh 6,Number Observed BTM Nests,Distance to Water (feet),Entry Source,BTM (Y/N),Interest in Help,Tree Type (Ornamental | Fruiting / Flowering | Bush),Proposed Treatment Type (Insert/Injection; Manual Removal; Organic Spray),"Treatm.  Priority (1: High, 2: Med, 3: Low)"
+130,-69.63344511,44.55127084,Crabapple ,Good ,,,1,10,...,...,...,...,...,75,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+101,-69.62973408,44.5495351,Crabapple ,Fair ,,,1,21,...,...,...,...,...,50,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+59,-69.6271305,44.55195911,Elm-American ,Good ,,,1,4,...,...,...,...,...,50,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+105,-69.62936061,44.54957609,Elm-American ,Good ,,,1,42,...,...,...,...,...,50,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+353,-69.66230072,44.52873009,Oak-Northern Red ,Good ,,,1,24,...,...,...,...,...,50,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+388,-69.65900935,44.52789299,Cherry-Black ,Poor ,,,1,24,...,...,...,...,...,45,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+406,-69.66150693,44.52850077,Crabapple ,Good ,,,1,14,...,...,...,...,...,40,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+60,-69.62717064,44.5521075,Elm-American ,Good ,,,1,4,...,...,...,...,...,40,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+197,-69.6301038,44.5681192,Pear-Callery ,Good ,,,1,8,4,4,...,...,...,40,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+63,-69.6270962,44.55225634,Serviceberry ,Good ,,,1,2,...,...,...,...,...,40,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+407,-69.66154058,44.52850708,Crabapple ,Fair ,,,1,10,...,...,...,...,...,35,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+88,-69.62727604,44.55224549,Elm-American ,Good ,,,1,5,...,...,...,...,...,35,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+632,-69.65262698,44.57611534,Oak-Northern Red ,Fair ,,,1,19,...,...,...,...,...,35,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+40,-69.62733975,44.55069452,Birch-Paper ,Fair ,,,1,8,6,4,...,...,...,30,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+46,-69.62782513,44.55110006,Crabapple ,Good ,,,1,3,...,...,...,...,...,30,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+38,-69.62748217,44.55064301,Crabapple ,Good ,,,1,5,...,...,...,...,...,30,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+39,-69.62744157,44.55065334,Crabapple ,Good ,,,1,5,...,...,...,...,...,30,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+536,-69.65270976,44.57625846,Oak-Northern Red ,Good ,,,1,13,1...,...,...,...,...,30,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+539,-69.65236748,44.57561059,Oak-Northern Red ,Good ,,,1,14,1,...,...,...,...,30,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+409,-69.66199199,44.52853189,Oak-Northern Red ,Good ,,,1,18,...,...,...,...,...,30,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+385,-69.6602494,44.53418565,Oak-Northern Red ,Fair ,,,1,19,...,...,...,...,...,30,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+405,-69.64312021,44.53454138,Oak-Northern Red ,Fair ,,,1,22,...,...,...,...,...,30,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+80,-69.6272928,44.5527073,Serviceberry ,Good ,,,1,1,...,...,...,...,...,30,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+103,-69.62982312,44.54962414,Crabapple ,Good ,,,1,8,...,...,...,...,...,25,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+37,-69.62752049,44.55065079,Crabapple ,Good ,,,1,5,...,...,...,...,...,25,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+117,-69.63316194,44.55088523,Elm-American ,Good ,,,1,19,...,...,...,...,...,25,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+231,-69.62812371,44.55040987,Elm-American ,Good ,,,1,21,...,...,...,...,...,25,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+548,-69.65218834,44.5743552,Oak-Northern Red ,Good ,,,1,2,...,...,...,...,...,25,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+447,-69.66124895,44.5277905,Oak-Northern Red ,Good ,,,1,17,...,...,...,...,...,25,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+383,-69.66060913,44.53424287,Oak-Northern Red ,Good ,,,1,18,...,...,...,...,...,25,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+403,-69.64313773,44.53452574,Oak-Northern Red ,Fair ,,,1,18,17,...,...,...,...,25,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+319,-69.64238261,44.53506726,Oak-Northern Red ,Good ,,,1,19,...,...,...,...,...,25,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+77,-69.6272516,44.55264931,Serviceberry ,Good ,,,1,2,...,...,...,...,...,25,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+79,-69.62729552,44.55263123,Serviceberry ,Good ,,,1,2,...,...,...,...,...,25,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+394,-69.65940466,44.52692271,Cherry-Black ,Fair ,,,1,16,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+36,-69.62756106,44.55066051,Crabapple ,Good ,,,1,4,...,...,...,...,...,20,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+35,-69.62758786,44.55068272,Crabapple ,Good ,,,1,6,...,...,...,...,...,20,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+89,-69.62723581,44.55280444,Elm-American ,Good ,,,1,3,...,...,...,...,...,20,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+95,-69.62743323,44.55288368,Elm-American ,Good ,,,1,4,...,...,...,...,...,20,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+550,-69.65206597,44.57404144,Oak-Northern Red ,Good ,,,1,13,1...,1...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+630,-69.65267938,44.5761987,Oak-Northern Red ,Good ,,,1,13,1...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+645,-69.65080745,44.57097762,Oak-Northern Red ,Good ,,,1,15,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+642,-69.65206423,44.57371678,Oak-Northern Red ,Good ,,,1,16,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+556,-69.65110417,44.57096406,Oak-Northern Red ,Good ,,,1,20,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+629,-69.65324524,44.57743118,Oak-Northern Red ,Good ,,,1,25,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+404,-69.64313456,44.53455674,Oak-Northern Red ,Good ,,,1,21,...,...,...,...,...,20,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+255,-69.64359005,44.55103734,Oak-White ,Good ,,,1,19,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+301,-69.63062361,44.56818771,Pear-Callery ,Good ,,,1,6,6,6,5,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+199,-69.63042373,44.56816628,Pear-Callery ,Fair ,,,1,13,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+200,-69.63052176,44.56818053,Pear-Callery ,Fair ,,,1,14,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+196,-69.6299331,44.56809238,Pear-Callery ,Poor ,,,1,15,...,...,...,...,...,20,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+547,-69.65216823,44.57445103,Oak-Northern Red ,Good ,,,1,12,...,...,...,...,...,18,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+557,-69.65107462,44.57094074,Oak-Northern Red ,Good ,,,1,14,...,...,...,...,...,18,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+480,-69.65987791,44.52698536,Oak-Northern Red ,Good ,,,1,14,...,...,...,...,...,18,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+520,-69.65459088,44.57916694,Oak-Northern Red ,Fair ,,,1,16,15,12,11,9,...,16,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+413,-69.66215938,44.52860732,Cherry-Black ,Fair ,,,1,9,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+224,-69.62820905,44.55183039,Elm-American ,Fair ,,,1,8,7,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+195,-69.6427722,44.5509343,Elm-American ,Good ,,,1,12,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+204,-69.62762859,44.55329479,Elm-American ,Good ,,,1,3,...,...,...,...,...,15,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+202,-69.62753091,44.55318014,Elm-American ,Good ,,,1,4,...,...,...,...,...,15,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+541,-69.65227054,44.57530671,Oak-Northern Red ,Poor ,,,1,10,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+504,-69.65500414,44.57974918,Oak-Northern Red ,Good ,,,1,12,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+529,-69.65402914,44.57826316,Oak-Northern Red ,Good ,,,1,12,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+277,-69.64377073,44.53456225,Oak-Northern Red ,Good ,,,1,13,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+644,-69.65120883,44.57112587,Oak-Northern Red ,Good ,,,1,14,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+530,-69.65362163,44.57792831,Oak-Northern Red ,Good ,,,1,17,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+612,-69.65497412,44.58014626,Oak-Northern Red ,Good ,,,1,18,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+555,-69.65112297,44.57101406,Oak-Northern Red ,Good ,,,1,20,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+613,-69.6549539,44.5801069,Oak-Northern Red ,Good ,,,1,20,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+639,-69.65200715,44.57447261,Oak-Northern Red ,Fair ,,,1,22,...,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+551,-69.65209514,44.57396555,Oak-Northern Red ,Good ,,,1,24,13,12,12,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+476,-69.65981635,44.52698401,Oak-Northern Red ,Good ,,,1,15,...,...,...,...,...,15,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+402,-69.64311727,44.53453753,Oak-Northern Red ,Poor ,,,1,16,...,...,...,...,...,15,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+397,-69.65951182,44.52693367,Oak-Northern Red ,Good ,,,1,20,...,...,...,...,...,15,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+399,-69.65967936,44.52694735,Oak-Northern Red ,Good ,,,1,25,...,...,...,...,...,15,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+198,-69.63023696,44.5681316,Pear-Callery ,Poor ,,,1,12,5,...,...,...,...,15,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+532,-69.65303682,44.5772068,Oak-Northern Red ,Good ,,,1,15,...,...,...,...,...,14,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+343,-69.66273079,44.52888795,Cherry-Black ,Good ,,,1,6,...,...,...,...,...,13,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+348,-69.66239343,44.52878788,Cherry-Black ,Fair ,,,1,11,...,...,...,...,...,12,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+28,-69.62758631,44.55079453,Elm-American ,Good ,,,1,9,...,...,...,...,...,12,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+331,-69.64267103,44.53471302,Elm-American ,Good ,,,1,20,...,...,...,...,...,12,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+492,-69.6559364,44.5805621,Oak-Northern Red ,Good ,,,1,12,...,...,...,...,...,12,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+538,-69.65234994,44.5756568,Oak-Northern Red ,Fair ,,,1,14,...,...,...,...,...,12,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+393,-69.65937963,44.52722559,Oak-Northern Red ,Good ,,,1,13,...,...,...,...,...,11,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+320,-69.64236979,44.53506288,Oak-Northern Red ,Good ,,,1,20,...,...,...,...,...,11,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+448,-69.66127637,44.52777909,Cherry-Black ,Poor ,,,1,7,6,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+445,-69.66015207,44.53420321,Cherry-Black ,Fair ,,,1,10,9,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+351,-69.66236943,44.52873184,Cherry-Black ,Poor ,,,1,12,12,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+350,-69.66235045,44.52875797,Cherry-Black ,Poor ,,,1,13,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+299,-69.64310509,44.5346416,Cherry-Black ,Fair ,,,1,6,...,...,...,...,...,10,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+30,-69.62748159,44.55081456,Crabapple ,Good ,,,1,5,...,...,...,...,...,10,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+32,-69.62774616,44.55068667,Elm-American ,Good ,,,1,5,...,...,...,...,...,10,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+339,-69.6629997,44.52905155,Maple-Sugar ,Good ,,,1,10,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+401,-69.64319637,44.53456748,Maple-Sugar ,Good ,,,1,19,...,...,...,...,...,10,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+608,-69.65513893,44.58027553,Oak-Northern Red ,Good ,,,1,11,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+638,-69.65206818,44.57468374,Oak-Northern Red ,Fair ,,,1,11,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+534,-69.65293689,44.57690561,Oak-Northern Red ,Good ,,,1,14,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+606,-69.65516585,44.58030435,Oak-Northern Red ,Good ,,,1,14,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+634,-69.65230512,44.57544751,Oak-Northern Red ,Good ,,,1,14,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+615,-69.65495702,44.58006617,Oak-Northern Red ,Good ,,,1,15,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+395,-69.65942426,44.52694902,Oak-Northern Red ,Good ,,,1,16,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+643,-69.65133159,44.5721718,Oak-Northern Red ,Good ,,,1,16,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+611,-69.65504533,44.58020694,Oak-Northern Red ,Good ,,,1,17,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+603,-69.65520689,44.58040052,Oak-Northern Red ,Good ,,,1,19,18,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+329,-69.64257227,44.53476168,Oak-Northern Red ,Good ,,,1,21,...,...,...,...,...,10,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+426,-69.65900227,44.5341433,Poplar-Aspen ,Fair ,,,1,8,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+427,-69.6590225,44.53414999,Poplar-Aspen ,Good ,,,1,10,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+428,-69.65908337,44.53413742,Poplar-Aspen ,Fair ,,,1,14,...,...,...,...,...,10,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+62,-69.62710292,44.5522326,Serviceberry ,Good ,,,1,2,...,...,...,...,...,10,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+531,-69.65336166,44.57763509,Oak-Northern Red ,Good ,,,1,9,...,...,...,...,...,9,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+544,-69.65241095,44.57498831,Oak-Northern Red ,Good ,,,1,10,...,...,...,...,...,9,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+545,-69.65236595,44.57493243,Oak-Northern Red ,Fair ,,,1,12,...,...,...,...,...,9,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+512,-69.65478777,44.57963848,Oak-Northern Red ,Poor ,,,1,14,...,...,...,...,...,9,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+537,-69.65268259,44.57623676,Oak-Northern Red ,Good ,,,1,16,...,...,...,...,...,9,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+474,-69.65973543,44.52693721,Cherry-Black ,Poor ,,,1,14,...,...,...,...,...,8,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+528,-69.65427843,44.57851488,Oak-Northern Red ,Good ,,,1,7,...,...,...,...,...,8,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+533,-69.65306835,44.57720163,Oak-Northern Red ,Fair ,,,1,16,...,...,...,...,...,8,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+478,-69.65984036,44.52696524,Oak-Northern Red ,Good ,,,1,13,...,...,...,...,...,8,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+345,-69.66260402,44.52888256,Elm-American ,Good ,,,1,6,...,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+114,-69.63295252,44.55078112,Elm-Chinese ,Fair ,,,1,8,...,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+636,-69.65230187,44.57540352,Oak-Northern Red ,Good ,,,1,6,...,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+526,-69.65439304,44.57881204,Oak-Northern Red ,Good ,,,1,11,...,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+535,-69.65277791,44.57631,Oak-Northern Red ,Good ,,,1,13,8,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+524,-69.65433897,44.57864415,Oak-Northern Red ,Fair ,,,1,14,...,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+641,-69.65195175,44.57416678,Oak-Northern Red ,Fair ,,,1,14,...,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+640,-69.65199138,44.57436582,Oak-Northern Red ,Good ,,,1,23,...,...,...,...,...,7,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+90,-69.62718586,44.55285557,Elm-American ,Good ,,,1,4,...,...,...,...,...,6,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+540,-69.65226799,44.57530906,Oak-Northern Red ,Poor ,,,1,10,...,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+543,-69.65225454,44.57537905,Oak-Northern Red ,Good ,,,1,10,...,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+546,-69.65229843,44.57468022,Oak-Northern Red ,Fair ,,,1,10,...,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+519,-69.6546466,44.57937535,Oak-Northern Red ,Good ,,,1,11,8,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+525,-69.65439971,44.57876519,Oak-Northern Red ,Fair ,,,1,12,...,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+374,-69.66076598,44.53402736,Oak-Northern Red ,Good ,,,1,13,...,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+552,-69.65206606,44.57393026,Oak-Northern Red ,Fair ,,,1,17,...,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+326,-69.6425897,44.53476084,Oak-Northern Red ,Good ,,,1,19,...,...,...,...,...,6,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+489,-69.65621874,44.58058279,Poplar-Bigtooth Aspen ,Good ,,,1,14,...,...,...,...,...,6,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+458,-69.66122492,44.52740095,Cherry-Black ,Poor ,,,1,8,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+455,-69.66126843,44.52750085,Cherry-Black ,Fair ,,,1,10,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+352,-69.66231483,44.52871846,Cherry-Black ,Poor ,,,1,12,11,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+477,-69.65983454,44.52693969,Cherry-Black ,Poor ,,,1,12,...,...,...,...,...,5,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+311,-69.64232827,44.53535187,Elm-American ,Fair ,,,1,15,...,...,...,...,...,5,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+206,-69.62812148,44.55318007,Maple-Sugar ,Good ,,,1,14,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+207,-69.62813864,44.55320396,Maple-Sugar ,Fair ,,,1,14,12,6,6,5,5,5,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+444,-69.66005798,44.53416864,Oak-Northern Red ,Good ,,,1,6,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+631,-69.65265739,44.57618217,Oak-Northern Red ,Good ,,,1,8,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+637,-69.65211925,44.57474833,Oak-Northern Red ,Good ,,,1,8,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+553,-69.65205625,44.57379336,Oak-Northern Red ,Good ,,,1,9,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+610,-69.65504194,44.58023014,Oak-Northern Red ,Good ,,,1,9,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+635,-69.65229882,44.57544782,Oak-Northern Red ,Good ,,,1,11,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+633,-69.65229111,44.5754978,Oak-Northern Red ,Good ,,,1,13,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+607,-69.65506126,44.5802936,Oak-Northern Red ,Good ,,,1,17,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+45,-69.62771206,44.55104351,Oak-Northern Red ,Fair ,,,1,3,...,...,...,...,...,5,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+423,-69.65893409,44.53416552,Poplar-Aspen ,Poor ,,,1,16,...,...,...,...,...,5,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+74,-69.62718877,44.55265543,Serviceberry ,Good ,,,1,1,...,...,...,...,...,5,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+64,-69.62713603,44.55225725,Serviceberry ,Good ,,,1,2,...,...,...,...,...,5,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+75,-69.62716118,44.55267326,Serviceberry ,Good ,,,1,2,...,...,...,...,...,5,<25 ,Bartlett Invent Feb 2022,Y,,Bush,Manual Removal,1
+349,-69.66239035,44.52876396,Cherry-Black ,Fair ,,,1,6,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+341,-69.66287648,44.52895554,Cherry-Black ,Good ,,,1,7,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+338,-69.66311098,44.52912631,Cherry-Black ,Good ,,,1,10,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+121,-69.63349676,44.55082061,Elm-American ,Good ,,,1,3,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+24,-69.62791142,44.55080465,Elm-American ,Good ,,,1,5,...,...,...,...,...,4,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+33,-69.62770598,44.55062902,Elm-American ,Good ,,,1,5,...,...,...,...,...,4,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+25,-69.62783225,44.55077055,Elm-American ,Fair ,,,1,6,...,...,...,...,...,4,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+278,-69.64368187,44.53447497,Maple-Boxelder ,Fair ,,,1,9,...,...,...,...,...,4,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+309,-69.63857977,44.53810995,Maple-Freeman's ,Good ,,,1,19,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+225,-69.62822185,44.55167588,Maple-Norway ,Good ,,,1,11,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+521,-69.65453839,44.57912047,Oak-Northern Red ,Good ,,,1,9,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+605,-69.65517702,44.58034696,Oak-Northern Red ,Poor ,,,1,9,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+269,-69.63114357,44.56742048,Oak-Northern Red ,Poor ,,,1,10,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+498,-69.65520196,44.58017348,Oak-Northern Red ,Good ,,,1,11,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+602,-69.65525538,44.58039947,Oak-Northern Red ,Good ,,,1,12,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+554,-69.65146319,44.57196822,Oak-Northern Red ,Good ,,,1,14,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+486,-69.66025894,44.52700934,Poplar-Aspen ,Poor ,,,1,9,...,...,...,...,...,4,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+483,-69.66013014,44.52703605,Poplar-Aspen ,Poor ,,,1,13,...,...,...,...,...,4,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+380,-69.66074205,44.53421557,Poplar-Bigtooth Aspen ,Good ,,,1,6,...,...,...,...,...,4,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+303,-69.63103176,44.56764717,Birch-Paper ,Good ,,,1,8,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+461,-69.6610809,44.52735703,Cherry-Black ,Fair ,,,1,7,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+342,-69.66285218,44.52892573,Crabapple ,Fair ,,,1,8,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+29,-69.62753555,44.55082304,Crabapple ,Good ,,,1,5,...,...,...,...,...,3,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+340,-69.66299602,44.52903794,Elm-American ,Good ,,,1,10,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+318,-69.64236807,44.53519495,Maple-Norway ,Fair ,,,1,20,...,...,...,...,...,3,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+254,-69.64630032,44.56156175,Maple-Red ,Good ,,,1,5,...,...,...,...,...,3,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+100,-69.62750334,44.55304226,Maple-Sugar ,Good ,,,1,3,...,...,...,...,...,3,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+604,-69.65523216,44.58035712,Oak-Northern Red ,Good ,,,1,8,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+304,-69.6310976,44.56743681,Oak-Northern Red ,Good ,,,1,9,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+542,-69.65227066,44.5753565,Oak-Northern Red ,Good ,,,1,9,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+549,-69.6521466,44.57431279,Oak-Northern Red ,Good ,,,1,12,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+42,-69.62754872,44.55106704,Oak-Northern Red ,Good ,,,1,3,...,...,...,...,...,3,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+502,-69.65513832,44.58004836,Poplar-Aspen ,Good ,,,1,16,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+501,-69.65517166,44.58005571,Poplar-Aspen ,Good ,,,1,19,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+485,-69.66027416,44.52701462,Poplar-Aspen ,Fair ,,,1,8,...,...,...,...,...,3,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+382,-69.66069974,44.5341746,Poplar-Bigtooth Aspen ,Poor ,,,1,6,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+488,-69.65624894,44.58060958,Poplar-Bigtooth Aspen ,Good ,,,1,12,...,...,...,...,...,3,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+6,-69.64632605,44.56190566,Ash-Green ,Good ,,,1,13,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+510,-69.65466363,44.57903512,Ash-White ,Good ,,,1,10,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+51,-69.6271846,44.55128731,Birch-River ,Good ,,,1,3,3,1,1,...,...,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+61,-69.62708465,44.55221229,Birch-River ,Good ,,,1,3,1,1,1,1,1,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+68,-69.62720395,44.55240169,Birch-River ,Good ,,,1,3,2,1,...,...,...,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+70,-69.62720547,44.55246532,Birch-River ,Good ,,,1,3,3,1,...,...,...,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+71,-69.6272434,44.55249004,Birch-River ,Good ,,,1,3,2,2,...,...,...,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+56,-69.62715524,44.55162685,Birch-River ,Good ,,,1,4,2,1,...,...,...,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+58,-69.62714661,44.55170741,Birch-River ,Good ,,,1,4,4,3,1,...,...,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+48,-69.62718863,44.55115757,Birch-River ,Good ,,,1,3,3,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+49,-69.62722403,44.55123127,Birch-River ,Good ,,,1,3,3,2,2,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+344,-69.66265294,44.52884177,Cherry-Black ,Good ,,,1,5,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+354,-69.66227158,44.52868892,Cherry-Black ,Fair ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+459,-69.66119577,44.5274077,Cherry-Black ,Poor ,,,1,8,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+355,-69.66226028,44.52868306,Cherry-Black ,Fair ,,,1,9,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+384,-69.66054024,44.53417572,Crabapple ,Fair ,,,1,8,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+31,-69.62746248,44.55081672,Crabapple ,Good ,,,1,5,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+122,-69.63363084,44.55084216,Elm-American ,Good ,,,1,4,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+123,-69.63375148,44.55085845,Elm-American ,Good ,,,1,8,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+335,-69.6427559,44.53467235,Elm-American ,Poor ,,,1,12,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+106,-69.62918076,44.54953646,Linden-Littleleaf ,Good ,,,1,2,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+234,-69.62833024,44.55019436,Maple-Boxelder ,Poor ,,,1,14,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+279,-69.64368957,44.53447074,Maple-Boxelder ,Fair ,,,1,12,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+265,-69.63054984,44.56715868,Maple-Freeman's ,Good ,,,1,14,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+262,-69.63026018,44.56711401,Maple-Freeman's ,Good ,,,1,18,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+421,-69.65886908,44.53409077,Maple-Norway ,Fair ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+363,-69.66046955,44.53369862,Maple-Norway ,Good ,,,1,8,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+215,-69.62819122,44.55231878,Maple-Norway ,Fair ,,,1,9,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+210,-69.62817355,44.55267313,Maple-Norway ,Good ,,,1,10,8,7,6,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+214,-69.62820363,44.55232415,Maple-Norway ,Good ,,,1,10,8,7,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+220,-69.62818192,44.55213462,Maple-Norway ,Good ,,,1,10,6,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+223,-69.62822573,44.55196625,Maple-Norway ,Poor ,,,1,10,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+227,-69.62822185,44.55153132,Maple-Norway ,Good ,,,1,12,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+361,-69.66043364,44.53360227,Maple-Norway ,Good ,,,1,12,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+221,-69.6281979,44.55212828,Maple-Norway ,Good ,,,1,13,1...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+175,-69.64617043,44.56322208,Maple-Norway ,Good ,,,1,14,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+209,-69.62817362,44.55274113,Maple-Norway ,Good ,,,1,14,11,11,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+176,-69.64633235,44.56335366,Maple-Norway ,Good ,,,1,15,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+296,-69.64320039,44.53460532,Maple-Norway ,Good ,,,1,8,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+328,-69.64270538,44.53475359,Maple-Norway ,Fair ,,,1,9,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+282,-69.64356065,44.53453711,Maple-Norway ,Good ,,,1,10,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+337,-69.66145628,44.5296817,Maple-Norway ,Good ,,,1,18,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+609,-69.6551006,44.58026169,Maple-Red ,Good ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+435,-69.65919484,44.53417385,Maple-Red ,Fair ,,,1,14,14,1...,8,8,7,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+134,-69.63581713,44.54761293,Maple-Sugar ,Good ,,,1,5,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+246,-69.64528497,44.56175893,Maple-Sugar ,Good ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+247,-69.64539458,44.56167186,Maple-Sugar ,Good ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+268,-69.63086446,44.56725279,Maple-Sugar ,Poor ,,,1,10,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+96,-69.62744377,44.55283141,Maple-Sugar ,Good ,,,1,3,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+98,-69.6273906,44.55294809,Maple-Sugar ,Good ,,,1,3,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+99,-69.62746233,44.55296135,Maple-Sugar ,Good ,,,1,3,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+201,-69.62743727,44.55309552,Maple-Sugar ,Good ,,,1,3,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Fruiting / Flowering,Organic Spray,1
+91,-69.62719854,44.55291042,Oak-Northern Red ,Good ,,,1,3,...,...,...,...,...,2,<25 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+495,-69.65590094,44.58044206,Oak-Northern Red ,Good ,,,1,4,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+367,-69.66053115,44.53378262,Oak-Northern Red ,Fair ,,,1,5,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+494,-69.65588901,44.58049187,Oak-Northern Red ,Good ,,,1,6,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+499,-69.65518239,44.58016492,Oak-Northern Red ,Good ,,,1,6,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+386,-69.66018735,44.53423968,Oak-Northern Red ,Good ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+601,-69.65527727,44.58044174,Oak-Northern Red ,Good ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+500,-69.65520043,44.58015056,Oak-Northern Red ,Good ,,,1,8,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+527,-69.6543411,44.57859909,Oak-Northern Red ,Good ,,,1,8,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+523,-69.65451481,44.57905045,Oak-Northern Red ,Good ,,,1,10,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+302,-69.63101194,44.56768366,Oak-Northern Red ,Good ,,,1,11,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+628,-69.65458121,44.57921965,Oak-Northern Red ,Good ,,,1,11,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+44,-69.62778401,44.55094834,Oak-Northern Red ,Poor ,,,1,2,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+47,-69.62743392,44.5511538,Oak-Northern Red ,Good ,,,1,3,...,...,...,...,...,2,25-250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+433,-69.65900871,44.53403201,Poplar-Aspen ,Fair ,,,1,6,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+464,-69.66074716,44.52720981,Poplar-Aspen ,Fair ,,,1,6,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+470,-69.66046343,44.52706387,Poplar-Aspen ,Good ,,,1,9,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+381,-69.66071334,44.53418194,Poplar-Bigtooth Aspen ,Good ,,,1,7,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+472,-69.66031406,44.52703225,Poplar-Bigtooth Aspen ,Fair ,,,1,12,...,...,...,...,...,2,>250 ,Bartlett Invent Feb 2022,Y,,Ornamental,Insert/Injection,1
+12,-69.64589251,44.56243805,Ash-Black ,Fair ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+13,-69.646085,44.56239003,Ash-Black ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+11,-69.64594883,44.5624836,Ash-Black ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+208,-69.62809589,44.55312133,Ash-Black ,Good ,,,0,10,1...,8,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+415,-69.66212271,44.52864173,Ash-Green ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+419,-69.66228142,44.52871313,Ash-Green ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+453,-69.66127985,44.52756641,Ash-Green ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+414,-69.66212275,44.52862035,Ash-Green ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+450,-69.66125741,44.52765066,Ash-Green ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+454,-69.66127555,44.52751999,Ash-Green ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+360,-69.66036438,44.5335723,Ash-Green ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+451,-69.66131876,44.52755742,Ash-Green ,Good ,,,0,7,5,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+452,-69.6613195,44.52755911,Ash-Green ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+462,-69.66091603,44.52730561,Ash-Green ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+148,-69.63278761,44.54601561,Ash-Green ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+418,-69.66224096,44.52869393,Ash-Green ,Good ,,,0,10,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+14,-69.64601761,44.56237073,Ash-Green ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+449,-69.6613353,44.52773077,Ash-Green ,Good ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+149,-69.63287827,44.54607363,Ash-Green ,Good ,,,0,13,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+417,-69.66214485,44.52868195,Ash-Green ,Good ,,,0,13,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+21,-69.63057267,44.56236789,Ash-Green ,Good ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+18,-69.63049274,44.56249971,Ash-Green ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+503,-69.65500827,44.57985172,Ash-Green ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+416,-69.66213098,44.52868401,Ash-Green ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+4,-69.64499615,44.56214932,Ash-Green ,Good ,,,0,21,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+358,-69.66023061,44.53345698,Ash-Green ,Fair ,,,0,24,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+184,-69.64793841,44.56468515,Ash-Green ,Good ,,,0,10,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+8,-69.64648709,44.56202372,Ash-Green ,Good ,,,0,12,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+7,-69.64641177,44.56196783,Ash-Green ,Good ,,,0,13,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+10,-69.64667151,44.56212773,Ash-Green ,Poor ,,,0,13,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+186,-69.64813773,44.56485917,Ash-Green ,Good ,,,0,13,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+17,-69.64670203,44.56220275,Ash-Green ,Good ,,,0,15,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+9,-69.64659459,44.56208688,Ash-Green ,Poor ,,,0,16,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+5,-69.64625049,44.56185291,Ash-Green ,Good ,,,0,18,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+228,-69.62817896,44.5507748,Ash-White ,Good ,,,0,3,2,2,1,1,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+390,-69.6592438,44.52755863,Ash-White ,Poor ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+365,-69.66049002,44.53373404,Ash-White ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+366,-69.66052149,44.53379658,Ash-White ,Poor ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+389,-69.65919482,44.52761053,Ash-White ,Poor ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+431,-69.65908037,44.53410169,Ash-White ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+432,-69.65903201,44.53405363,Ash-White ,Good ,,,0,6,6,6,6,5,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+487,-69.65657839,44.581199,Ash-White ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+509,-69.65470291,44.57912686,Ash-White ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+614,-69.65496195,44.5800711,Ash-White ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+229,-69.62814937,44.55061341,Ash-White ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+371,-69.660664,44.53388939,Ash-White ,Poor ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+391,-69.65924315,44.52745821,Ash-White ,Poor ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+440,-69.65962359,44.53418581,Ash-White ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+425,-69.65896764,44.53412625,Ash-White ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+522,-69.65455173,44.57907147,Ash-White ,Poor ,,,0,8,8,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+370,-69.66053675,44.53381194,Ash-White ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+392,-69.65930333,44.5273026,Ash-White ,Poor ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+420,-69.65882396,44.53406609,Ash-White ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+617,-69.65487207,44.57998129,Ash-White ,Good ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+171,-69.63458309,44.54596771,Ash-White ,Poor ,,,0,10,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+376,-69.66076853,44.53402976,Ash-White ,Good ,,,0,10,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+422,-69.65891494,44.53409026,Ash-White ,Fair ,,,0,10,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+508,-69.65471286,44.57915674,Ash-White ,Good ,,,0,10,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+378,-69.66071671,44.53403109,Ash-White ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+496,-69.65536307,44.58031352,Ash-White ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+505,-69.65497191,44.57971781,Ash-White ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+135,-69.63481117,44.54577818,Ash-White ,Fair ,,,0,12,8,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+368,-69.66056451,44.53379963,Ash-White ,Fair ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+369,-69.66056436,44.53381506,Ash-White ,Fair ,,,0,12,11,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+375,-69.66071255,44.53399366,Ash-White ,Good ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+377,-69.66077438,44.53402674,Ash-White ,Good ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+511,-69.65464951,44.57900704,Ash-White ,Fair ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+456,-69.66125904,44.52744635,Ash-White ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+387,-69.66026335,44.53435602,Ash-White ,Good ,,,0,16,1...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+373,-69.66072207,44.53402718,Ash-White ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+506,-69.65496013,44.5796295,Ash-White ,Good ,,,0,20,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+372,-69.66066448,44.53392025,Ash-White ,Good ,,,0,21,19,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+497,-69.65526482,44.58025061,Ash-White ,Good ,,,0,21,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+26,-69.62773993,44.55078428,Ash-White ,Good ,,,0,5,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+34,-69.62767459,44.55070357,Ash-White ,Fair ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+398,-69.65954621,44.52694167,Ash-White ,Good ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+27,-69.62768555,44.55084344,Ash-White ,Fair ,,,0,7,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+364,-69.66049525,44.53371769,Beech-American ,Fair ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+627,-69.65459642,44.57922567,Birch-Paper ,Good ,,,0,5,6,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+490,-69.6560053,44.58062281,Birch-Paper ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+626,-69.65463902,44.57929706,Birch-Paper ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+359,-69.66029106,44.53347953,Birch-Paper ,Good ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+518,-69.65468104,44.57941279,Birch-Paper ,Good ,,,0,9,5,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+159,-69.63355749,44.5464196,Birch-Paper ,Good ,,,0,13,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+475,-69.65975225,44.52693828,Birch-Paper ,Poor ,,,0,11,8,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+78,-69.62726698,44.55263141,Birch-River ,Poor ,,,0,1,...,...,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+72,-69.62722375,44.55251928,Birch-River ,Good ,,,0,2,2,2,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+73,-69.62716716,44.55257609,Birch-River ,Good ,,,0,2,2,2,1,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+54,-69.62704316,44.5515117,Birch-River ,Good ,,,0,3,3,1,1,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+57,-69.62719541,44.55166743,Birch-River ,Good ,,,0,3,3,1,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+65,-69.62712477,44.55228637,Birch-River ,Good ,,,0,3,2,1,1,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+67,-69.62722306,44.55235753,Birch-River ,Good ,,,0,3,3,3,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+69,-69.62715494,44.5524321,Birch-River ,Good ,,,0,3,1,1,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+66,-69.62719614,44.55231663,Birch-River ,Good ,,,0,4,3,1,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+76,-69.6271921,44.55268889,Birch-River ,Good ,,,0,4,2,2,1,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+94,-69.62741295,44.5528875,Birch-River ,Good ,,,0,2,2,2,2,2,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+50,-69.62723514,44.55127531,Birch-River ,Fair ,,,0,3,2,1,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+81,-69.62738108,44.5526602,Birch-River ,Good ,,,0,3,2,2,2,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+92,-69.62734546,44.55291072,Birch-River ,Fair ,,,0,3,3,2,1,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+93,-69.62739787,44.55291468,Birch-River ,Good ,,,0,3,3,2,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+346,-69.66257096,44.52881244,Cherry-Black ,Poor ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+457,-69.66125847,44.52740197,Cherry-Black ,Dead ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+460,-69.66113757,44.52734815,Cherry-Black ,Fair ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+113,-69.63290179,44.55084571,Elm-American ,Fair ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+120,-69.63336672,44.55080302,Elm-American ,Fair ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+15,-69.64579829,44.56226307,Elm-American ,Dead ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+481,-69.65986478,44.52698952,Elm-American ,Poor ,,,0,5,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+336,-69.64302478,44.53468325,Elm-American ,Poor ,,,0,10,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+124,-69.63353144,44.55100537,Ginkgo ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+52,-69.6271779,44.55135179,Honeylocust-Thornless Common ,Good ,,,0,3,...,...,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+53,-69.62713498,44.55146478,Honeylocust-Thornless Common ,Good ,,,0,3,...,...,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+55,-69.62717293,44.55159065,Honeylocust-Thornless Common ,Good ,,,0,3,...,...,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+182,-69.64730043,44.56412779,Honeylocust-Thornless Common ,Good ,,,0,20,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+150,-69.63302203,44.54616133,Honeylocust-Thornless Common ,Good ,,,0,21,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+183,-69.64739607,44.56422083,Honeylocust-Thornless Common ,Good ,,,0,21,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+131,-69.63315978,44.55124643,Honeylocust-Thornless Common ,Good ,,,0,25,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+82,-69.62749804,44.5526394,Honeylocust-Thornless Common ,Fair ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+83,-69.62750592,44.55256399,Honeylocust-Thornless Common ,Good ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+84,-69.6275226,44.55247297,Honeylocust-Thornless Common ,Good ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+85,-69.62746561,44.55239309,Honeylocust-Thornless Common ,Good ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+86,-69.62738693,44.5523417,Honeylocust-Thornless Common ,Fair ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+87,-69.6273077,44.55230811,Honeylocust-Thornless Common ,Good ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+104,-69.62962292,44.54958675,Honeylocust-Thornless Common ,Good ,,,0,14,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+187,-69.64836331,44.56501944,Honeylocust-Thornless Common ,Good ,,,0,14,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+132,-69.63315023,44.55112273,Horsechestnut-Common ,Fair ,,,0,19,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+128,-69.63371266,44.55132367,Lilac-Japanese Tree ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+356,-69.66029276,44.53327968,Linden-Littleleaf ,Good ,,,0,12,12,11,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+108,-69.62902753,44.54952102,Linden-Littleleaf ,Good ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+109,-69.62902942,44.54959769,Linden-Littleleaf ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+181,-69.64717981,44.56404483,Linden-Littleleaf ,Good ,,,0,18,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+107,-69.62905829,44.54946569,Linden-Littleleaf ,Fair ,,,0,23,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+136,-69.63463146,44.54580237,Linden-Littleleaf ,Poor ,,,0,33,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+138,-69.63461065,44.54561383,Linden-Littleleaf ,Fair ,,,0,33,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+185,-69.64804215,44.5647744,Linden-Littleleaf ,Good ,,,0,8,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+151,-69.6328552,44.54621844,Locust-Black ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+157,-69.6333794,44.54638352,Locust-Black ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+162,-69.63368534,44.54647386,Locust-Black ,Fair ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+163,-69.63372459,44.54646835,Locust-Black ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+152,-69.6332622,44.54627605,Locust-Black ,Good ,,,0,19,14,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+160,-69.63361944,44.5464475,Locust-Black ,Good ,,,0,19,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+165,-69.63374075,44.54646066,Locust-Black ,Good ,,,0,19,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+153,-69.63329641,44.54627963,Locust-Black ,Good ,,,0,23,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+156,-69.63334217,44.54638278,Locust-Black ,Good ,,,0,24,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+158,-69.63356545,44.54643262,Locust-Black ,Good ,,,0,24,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+446,-69.66123037,44.52787699,Maple-Boxelder ,Fair ,,,0,16,7,5,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+293,-69.64326011,44.53459879,Maple-Boxelder ,Good ,,,0,7,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+321,-69.64256249,44.53501675,Maple-Boxelder ,Fair ,,,0,9,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+287,-69.64342227,44.53455206,Maple-Boxelder ,Poor ,,,0,11,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+482,-69.65999375,44.52703713,Maple-Boxelder ,Poor ,,,0,12,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+289,-69.64334724,44.53454887,Maple-Boxelder ,Poor ,,,0,15,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+332,-69.64272214,44.53471499,Maple-Boxelder ,Poor ,,,0,17,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+330,-69.64266331,44.53472552,Maple-Boxelder ,Poor ,,,0,18,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+267,-69.63071042,44.56718859,Maple-Freeman's ,Good ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+274,-69.63861643,44.53793262,Maple-Freeman's ,Good ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+266,-69.63063244,44.56716256,Maple-Freeman's ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+263,-69.6303465,44.56710716,Maple-Freeman's ,Good ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+264,-69.63045771,44.56715136,Maple-Freeman's ,Fair ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+275,-69.6386266,44.53800454,Maple-Freeman's ,Good ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+260,-69.63006394,44.56710058,Maple-Freeman's ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+271,-69.63889521,44.53781538,Maple-Freeman's ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+273,-69.6386728,44.53786054,Maple-Freeman's ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+276,-69.63858019,44.5380571,Maple-Freeman's ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+261,-69.63020158,44.56711241,Maple-Freeman's ,Good ,,,0,19,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+259,-69.63002,44.56705826,Maple-Freeman's ,Good ,,,0,22,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+119,-69.63331682,44.55085895,Maple-Freeman's ,Good ,,,0,23,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+133,-69.63589461,44.54762061,Maple-Norway ,Good ,,,0,4,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+408,-69.66175257,44.52854729,Maple-Norway ,Good ,,,0,4,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+127,-69.63390284,44.55138589,Maple-Norway ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+142,-69.63372764,44.54535486,Maple-Norway ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+154,-69.63329828,44.54628923,Maple-Norway ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+161,-69.63365708,44.54647788,Maple-Norway ,Fair ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+211,-69.6281684,44.5524669,Maple-Norway ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+212,-69.62819048,44.55241391,Maple-Norway ,Fair ,,,0,5,4,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+437,-69.65937075,44.53413968,Maple-Norway ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+164,-69.63371142,44.54647356,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+213,-69.62820539,44.55232666,Maple-Norway ,Fair ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+219,-69.62820807,44.55213434,Maple-Norway ,Fair ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+362,-69.66038122,44.53364227,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+430,-69.65905731,44.53410232,Maple-Norway ,Good ,,,0,6,4,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+436,-69.65939488,44.53410101,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+442,-69.65969233,44.53417682,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+517,-69.65470062,44.57943086,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+155,-69.6333227,44.54631953,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+168,-69.63422512,44.54619594,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+173,-69.63460312,44.54594094,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+217,-69.62821225,44.55215308,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+424,-69.65896232,44.53418763,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+507,-69.65474051,44.57922792,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+166,-69.63401391,44.54631335,Maple-Norway ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+172,-69.63461321,44.54596156,Maple-Norway ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+180,-69.64671208,44.56367408,Maple-Norway ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+192,-69.64309064,44.55164845,Maple-Norway ,Fair ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+218,-69.62817826,44.55215685,Maple-Norway ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+439,-69.65953031,44.53418113,Maple-Norway ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+170,-69.6342978,44.54616962,Maple-Norway ,Poor ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+216,-69.6281902,44.55218148,Maple-Norway ,Fair ,,,0,9,5,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+434,-69.65911292,44.53409457,Maple-Norway ,Good ,,,0,10,9,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+169,-69.63425038,44.54619189,Maple-Norway ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+226,-69.62820801,44.55153929,Maple-Norway ,Fair ,,,0,11,11,11,1...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+396,-69.65949103,44.52698646,Maple-Norway ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+177,-69.64648815,44.56347963,Maple-Norway ,Fair ,,,0,13,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+179,-69.64664797,44.56361455,Maple-Norway ,Good ,,,0,13,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+178,-69.6465797,44.56355262,Maple-Norway ,Good ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+222,-69.62819165,44.55204287,Maple-Norway ,Good ,,,0,14,11,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+137,-69.63470439,44.54569451,Maple-Norway ,Good ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+167,-69.63417941,44.54623037,Maple-Norway ,Fair ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+230,-69.62792949,44.5506272,Maple-Norway ,Good ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+139,-69.63453822,44.54553113,Maple-Norway ,Good ,,,0,18,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+140,-69.63445819,44.54547729,Maple-Norway ,Fair ,,,0,18,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+115,-69.63303671,44.55069348,Maple-Norway ,Good ,,,0,19,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+126,-69.63390118,44.5510491,Maple-Norway ,Good ,,,0,19,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+102,-69.62975644,44.54960304,Maple-Norway ,Good ,,,0,20,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+141,-69.6342989,44.54533784,Maple-Norway ,Fair ,,,0,20,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+125,-69.63373802,44.55102391,Maple-Norway ,Good ,,,0,24,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+118,-69.63328662,44.55095784,Maple-Norway ,Good ,,,0,25,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+143,-69.6333238,44.54525793,Maple-Norway ,Fair ,,,0,26,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+112,-69.63276773,44.55101145,Maple-Norway ,Fair ,,,0,46,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+284,-69.64353336,44.53454246,Maple-Norway ,Good ,,,0,4,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+285,-69.64349706,44.53455149,Maple-Norway ,Poor ,,,0,4,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+288,-69.64344598,44.53456475,Maple-Norway ,Good ,,,0,4,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+290,-69.64338189,44.53457238,Maple-Norway ,Fair ,,,0,5,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+294,-69.64320682,44.5346077,Maple-Norway ,Fair ,,,0,5,4,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+298,-69.64318114,44.53458154,Maple-Norway ,Good ,,,0,5,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+283,-69.64352913,44.53454964,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+291,-69.64334845,44.53457698,Maple-Norway ,Fair ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+292,-69.64328551,44.5345948,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+300,-69.64313165,44.53462185,Maple-Norway ,Good ,,,0,6,6,6,3,2,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+313,-69.64230887,44.53531566,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+322,-69.64257299,44.53501076,Maple-Norway ,Fair ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+325,-69.64262405,44.53480587,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+333,-69.64272362,44.53472453,Maple-Norway ,Good ,,,0,6,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+280,-69.64361338,44.53450418,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+334,-69.64274184,44.53468001,Maple-Norway ,Good ,,,0,7,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+281,-69.64359378,44.53454761,Maple-Norway ,Fair ,,,0,8,6,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+297,-69.64317976,44.53462483,Maple-Norway ,Fair ,,,0,8,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+314,-69.64235559,44.53529669,Maple-Norway ,Good ,,,0,8,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+327,-69.64269917,44.5347537,Maple-Norway ,Fair ,,,0,8,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+295,-69.64317502,44.53464393,Maple-Norway ,Good ,,,0,9,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+324,-69.64264796,44.53483439,Maple-Norway ,Good ,,,0,9,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+310,-69.64230205,44.53537953,Maple-Norway ,Good ,,,0,11,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+323,-69.64263646,44.53490603,Maple-Norway ,Fair ,,,0,11,11,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+317,-69.64238849,44.53523868,Maple-Norway ,Fair ,,,0,12,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+286,-69.64342738,44.53458264,Maple-Norway ,Good ,,,0,14,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+315,-69.64239857,44.53525082,Maple-Norway ,Fair ,,,0,14,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+316,-69.64239196,44.5352082,Maple-Norway ,Good ,,,0,16,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+400,-69.65969443,44.52693741,Maple-Norway ,Good ,,,0,19,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+111,-69.62876178,44.54941921,Maple-Norway ,Good ,,,0,24,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+110,-69.6287653,44.54949374,Maple-Norway ,Good ,,,0,25,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+145,-69.63310436,44.54543136,Maple-Red ,Good ,,,0,8,...,...,...,...,...,0, ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+232,-69.6281027,44.55025992,Maple-Red ,Good ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+233,-69.62808311,44.55014118,Maple-Red ,Good ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+306,-69.63907348,44.53803848,Maple-Red ,Good ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+308,-69.63917058,44.53822385,Maple-Red ,Good ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+194,-69.64275606,44.55107723,Maple-Red ,Good ,,,0,4,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+256,-69.64335151,44.55101145,Maple-Red ,Good ,,,0,4,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+257,-69.64311374,44.55098204,Maple-Red ,Good ,,,0,4,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+623,-69.6548316,44.57973804,Maple-Red ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+244,-69.64439896,44.56121992,Maple-Red ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+243,-69.64425967,44.5613081,Maple-Red ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+245,-69.64454186,44.56112626,Maple-Red ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+616,-69.65490524,44.58001249,Maple-Red ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+619,-69.65487176,44.57982492,Maple-Red ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+621,-69.65481867,44.57979996,Maple-Red ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+622,-69.65483946,44.57976069,Maple-Red ,Fair ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+193,-69.64276354,44.55128251,Maple-Red ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+240,-69.64400863,44.56133151,Maple-Red ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+237,-69.64444365,44.56177962,Maple-Red ,Good ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+1,-69.64573697,44.56285747,Maple-Red ,Good ,,,0,10,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+16,-69.64573242,44.56222013,Maple-Red ,Good ,,,0,10,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+2,-69.6456567,44.56278073,Maple-Red ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+235,-69.64461863,44.5619405,Maple-Red ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+241,-69.64418364,44.56141461,Maple-Red ,Good ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+620,-69.65484788,44.57980563,Maple-Red ,Fair ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+146,-69.63304568,44.54552593,Maple-Red ,Poor ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+239,-69.64423633,44.56160908,Maple-Red ,Good ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+238,-69.64436237,44.56170881,Maple-Red ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+272,-69.63879801,44.53782851,Maple-Red ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+236,-69.64453966,44.56184921,Maple-Red ,Good ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+258,-69.62983177,44.5670452,Maple-Red ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+270,-69.63899434,44.53784446,Maple-Red ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+19,-69.6302281,44.56254839,Maple-Red ,Fair ,,,0,20,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+347,-69.66251899,44.5287757,Maple-Red ,Good ,,,0,21,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+20,-69.63016546,44.56265488,Maple-Red ,Fair ,,,0,22,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+242,-69.64451086,44.56150788,Maple-Red ,Good ,,,0,22,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+41,-69.62733837,44.55100255,Maple-Red ,Fair ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+144,-69.63329081,44.5452914,Maple-Silver ,Fair ,,,0,21,18,17,15,15,14,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+203,-69.62723591,44.55314357,Maple-Sugar ,Good ,,,0,3,...,...,...,...,...,0,<25 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+305,-69.63911017,44.53794242,Maple-Sugar ,Good ,,,0,1,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+307,-69.63904152,44.53813477,Maple-Sugar ,Good ,,,0,1,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+174,-69.63751572,44.53904151,Maple-Sugar ,Fair ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+429,-69.6590599,44.5340518,Maple-Sugar ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+116,-69.63319352,44.55073933,Maple-Sugar ,Fair ,,,0,41,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+97,-69.62749411,44.55273771,Maple-Sugar ,Good ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+147,-69.63282115,44.54589188,Oak-Northern Red ,Fair ,,,0,2,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+357,-69.66023132,44.53327615,Oak-Northern Red ,Fair ,,,0,4,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+379,-69.66076403,44.53406335,Oak-Northern Red ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+443,-69.66008333,44.53419321,Oak-Northern Red ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+441,-69.65966529,44.53410914,Oak-Northern Red ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+438,-69.65955788,44.53413367,Oak-Northern Red ,Good ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+624,-69.65466851,44.57935092,Oak-Northern Red ,Good ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+3,-69.64538086,44.56225119,Oak-Northern Red ,Good ,,,0,14,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+618,-69.6548322,44.57984672,Oak-Northern Red ,Good ,,,0,18,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+191,-69.64531562,44.55243591,Oak-Northern Red ,Good ,,,0,20,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+190,-69.64527566,44.55243306,Oak-Northern Red ,Good ,,,0,21,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+188,-69.64519408,44.55237162,Oak-Northern Red ,Good ,,,0,24,15,12,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+43,-69.62785319,44.55084898,Oak-Northern Red ,Good ,,,0,2,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+205,-69.6277022,44.55321821,Oak-Northern Red ,Good ,,,0,3,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+479,-69.6598445,44.52696046,Oak-Northern Red ,Good ,,,0,5,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+189,-69.6452416,44.5524109,Oak-Northern Red ,Good ,,,0,24,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+252,-69.64608247,44.56168098,Pine-Eastern White ,Fair ,,,0,23,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+253,-69.64614689,44.5616547,Pine-Eastern White ,Good ,,,0,25,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+249,-69.64575626,44.56182928,Pine-Eastern White ,Poor ,,,0,26,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+250,-69.64585753,44.56177075,Pine-Eastern White ,Fair ,,,0,26,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+251,-69.64596133,44.5617074,Pine-Eastern White ,Good ,,,0,29,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+248,-69.64568197,44.56183894,Pine-Eastern White ,Good ,,,0,36,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+129,-69.63354304,44.55131818,Plum-Purple Leaf ,Fair ,,,0,8,7,7,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Fruiting / Flowering,None,
+468,-69.66059928,44.52713289,Poplar-Aspen ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+469,-69.66051077,44.52714467,Poplar-Aspen ,Good ,,,0,5,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+465,-69.66074635,44.52719968,Poplar-Aspen ,Good ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+466,-69.66072488,44.52719338,Poplar-Aspen ,Fair ,,,0,6,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+411,-69.66198926,44.52864108,Poplar-Aspen ,Dead ,,,0,7,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+463,-69.66085346,44.52718974,Poplar-Aspen ,Good ,,,0,8,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+412,-69.66200001,44.52864352,Poplar-Aspen ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+471,-69.6604245,44.52698349,Poplar-Aspen ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+467,-69.66071906,44.52714758,Poplar-Aspen ,Fair ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+410,-69.6619868,44.52853338,Poplar-Aspen ,Poor ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+484,-69.66016599,44.52699364,Poplar-Aspen ,Fair ,,,0,12,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+473,-69.66034805,44.52695053,Poplar-Bigtooth Aspen ,Fair ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+515,-69.65466741,44.57946194,Poplar-Bigtooth Aspen ,Good ,,,0,9,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+493,-69.65592382,44.58055315,Poplar-Bigtooth Aspen ,Fair ,,,0,11,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+516,-69.65465143,44.57944651,Poplar-Bigtooth Aspen ,Good ,,,0,12,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+625,-69.65465933,44.57933404,Poplar-Bigtooth Aspen ,Fair ,,,0,13,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+491,-69.65598038,44.58059185,Poplar-Bigtooth Aspen ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+514,-69.65472922,44.5795227,Poplar-Bigtooth Aspen ,Good ,,,0,15,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+513,-69.65476461,44.57960751,Poplar-Bigtooth Aspen ,Good ,,,0,19,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+23,-69.63052019,44.56215683,Spruce-Colorado Blue ,Good ,,,0,16,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+22,-69.63051818,44.56226306,Spruce-Colorado Blue ,Good ,,,0,17,...,...,...,...,...,0,>250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+312,-69.64233038,44.53534107,Willow ,Fair ,,,0,31,...,...,...,...,...,0,25-250 ,Bartlett Invent Feb 2022,N,,Ornamental,None,
+,-69.642501,44.556389,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,1
+,-69.63492,44.546047,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,1
+,-69.659131,44.536218,,,"Oak, Ash, ","Oak, Ash, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.650531,44.581713,,,"Oak, Maple, Ash, Birch, Cherry, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.640406,44.557256,,,"Oak, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.660802,44.54486,,,"Oak, Birch, ","Oak, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.674505,44.549777,,,"Oak, Ash, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.661322,44.538465,,,"Oak, Maple, Ash, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.661214,44.537522,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.660484,44.545065,,,"Oak, Birch, ","Oak, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.656639,44.550227,,,"Oak, Maple, Birch, ","Oak, Maple, Birch, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.617809,44.554321,,,"Oak, Maple, Ash, Birch, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.642683,44.558175,,,"Oak, Maple, Ash, Apple, Pear, Cherry, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.660032,44.547426,,,"Oak, Maple, Ash, ","Oak, Maple, Ash, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.657846,44.545593,,,"Oak, Maple, Ash, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.659686,44.546348,,,"Oak, Maple, Birch, ","Oak, Maple, Birch, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.655127,44.554616,,,"Oak, Maple, Birch, Apple, Crabapple, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.628121,44.564612,,,"Apple, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.714351,44.514712,,,"Oak, Maple, Birch, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.645345,44.540483,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.658142,44.546195,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.654996,44.549692,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.646082,44.549005,,,"Oak, Maple, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.657779,44.540192,,,"Maple, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.657623,44.547598,,,"Maple, Ash, Birch, Apple, Crabapple, ","Birch, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.656928,44.546274,,,"Oak, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.656161,44.551369,,,"Oak, Maple, Birch, ","Oak, Maple, Birch, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.647368,44.542394,,,"Oak, Maple, Ash, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.669347,44.549533,,,"Oak, Ash, Birch, ","Ash, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.644682,44.555094,,,"Oak, Maple, Birch, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.652271,44.554187,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.660137,44.537833,,,"Oak, Maple, Birch, ","Oak, Maple, Birch, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.630605,44.553242,,,"Oak, Maple, Ash, Birch, Crabapple, Pear, Cherry, Serviceberry, Hawthorn, ","Oak, Maple, Ash, Birch, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.66183,44.546088,,,"Oak, Maple, Birch, ","Oak, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.642801,44.543793,,,"Oak, Maple, Ash, Birch, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.658623,44.535227,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.656636,44.532596,,,"Oak, Maple, Birch, Crabapple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.654746,44.548681,,,"Oak, Maple, Birch, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.660988,44.544544,,,"Ash, Apple, Pear, ","Ash, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.656337,44.550765,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.641892,44.556073,,,"Maple, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.643043,44.543976,,,"Oak, Maple, Birch, Hawthorn, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.658765,44.547812,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.647373,44.57294,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.661916,44.545358,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.659029,44.54054,,,"Maple, Ash, Pear, Cherry, ","Pear, Cherry, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.645423,44.556049,,,"Birch, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.656476,44.549738,,,"Maple, Birch, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.652439,44.552399,,,"Oak, Maple, Ash, Apple, Crabapple, Pear, Cherry, Serviceberry, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.657145,44.549833,,,"Birch, Crabapple, Cherry, Serviceberry, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.636633,44.543193,,,"Ash, Apple, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.63307,44.576293,,,"Oak, Birch, Apple, Pear, Cherry, ","Apple, Pear, Cherry, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.639072,44.563043,,,"Oak, Maple, Ash, Birch, Crabapple, Cherry, Serviceberry, Hawthorn, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.639883,44.550849,,,"Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.67041,44.544561,,,"Maple, Cherry, ","Maple, Cherry, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.658989,44.540383,,,"Apple, Pear, Cherry, ","Apple, Cherry, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.653753,44.554778,,,"Maple, Birch, Apple, Crabapple, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.67736,44.510936,,,"Oak, Ash, Birch, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.66986,44.52294,,,"Pear, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.675013,44.548491,,,"Oak, Maple, Apple, Pear, ","Apple, Pear, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.659267,44.539342,,,"Maple, Birch, Crabapple, Cherry, ","Cherry, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.669199,44.548741,,,"Oak, Maple, Birch, Crabapple, ","Oak, Maple, Birch, Crabapple, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.659389,44.54734,,,"Oak, Maple, Ash, Birch, Apple, Crabapple, Cherry, Hawthorn, ","Oak, Maple, Birch, Crabapple, Cherry, ",5,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.655002,44.545128,,,"Ash, Cherry, ","Ash, Cherry, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.645203,44.543581,,,"Oak, Maple, Birch, Apple, ","Oak, Maple, Birch, Apple, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.668401,44.54925,,,"Oak, Pear, ","Oak, Pear, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.662876,44.545136,,,"Maple, Birch, Apple, Crabapple, ","Birch, Apple, Crabapple, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.641433,44.536094,,,"Oak, Ash, Birch, Apple, Crabapple, Cherry, Hawthorn, ","Oak, Crabapple, Cherry, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.658715,44.546169,,,"Oak, Maple, Birch, Apple, Cherry, ","Oak, Maple, Apple, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.65705,44.539751,,,"Maple, Pear, ","Maple, Pear, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.641519,44.573693,,,"Maple, Apple, Pear, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.663514,44.536972,,,"Oak, Crabapple, ","Oak, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.659022,44.545474,,,"Oak, Apple, Crabapple, ","Oak, Apple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.641926,44.552913,,,"Maple, Crabapple, ","Maple, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.638682,44.576297,,,"Maple, Birch, Apple, ","Maple, Apple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.6402,44.555124,,,"Oak, Maple, Crabapple, ","Oak, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.640848,44.570596,,,"Birch, Apple, Crabapple, Serviceberry, ","Birch, Apple, Crabapple, Serviceberry, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.658566,44.545823,,,"Oak, Maple, Ash, Birch, Crabapple, ","Oak, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.668583,44.549321,,,"Oak, Ash, Apple, Crabapple, ","Oak, Ash, Apple, Crabapple, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.640596,44.555626,,,"Oak, Crabapple, ","Oak, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.638232,44.578402,,,"Oak, Maple, Ash, Birch, Apple, Crabapple, Pear, Cherry, Serviceberry, ","Oak, Apple, Crabapple, Pear, Cherry, Serviceberry, ",6,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.648662,44.548351,,,"Oak, Maple, Birch, Apple, Pear, ","Oak, Maple, Birch, Apple, Pear, ",5,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.651458,44.583999,,,"Oak, Maple, Ash, Birch, Apple, Crabapple, Pear, ","Ash, Apple, Crabapple, Pear, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.637432,44.574319,,,"Oak, Maple, Apple, Crabapple, ","Oak, Maple, Apple, Crabapple, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.668398,44.549403,,,"Oak, Maple, Ash, Birch, Crabapple, ","Oak, Maple, Ash, Birch, Crabapple, ",5,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.65535,44.549821,,,"Oak, Maple, Crabapple, ","Oak, Maple, Crabapple, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.672021,44.552132,,,"Oak, Maple, Birch, Cherry, ","Oak, Cherry, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.636208,44.577558,,,"Oak, Apple, Crabapple, Pear, ","Oak, Apple, Crabapple, Pear, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.672799,44.554095,,,"Oak, Maple, Ash, Birch, Apple, Pear, ","Oak, Maple, Ash, Birch, Apple, Pear, ",6,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.642965,44.53925,,,"Oak, Apple, ","Oak, Apple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.655365,44.548844,,,"Oak, Maple, Ash, Birch, Apple, Crabapple, Cherry, Hawthorn, ","Oak, Birch, Apple, Crabapple, ",4,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.658342,44.547733,,,"Maple, Ash, Cherry, ","Maple, Cherry, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.653161,44.553299,,,"Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.65095,44.541883,,,"Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.654103,44.555869,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,2
+,-69.641126,44.57523,,,"Oak, Maple, Birch, Pear, ","Oak, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,3
+,-69.693755,44.534766,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,3
+,-69.644969,44.562835,,,"Oak, Ash, Pear, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,3
+,-69.673414,44.547992,,,"Oak, Maple, Ash, Birch, Apple, Hawthorn, ","Maple, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,3
+,-69.651354,44.552747,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.655624,44.555693,,,"Maple, Apple, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.639593,44.555451,,,"Apple, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.663935,44.537501,,,"Oak, Maple, Ash, Birch, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.642751,44.575248,,,"Oak, Maple, Ash, Birch, Apple, Crabapple, Pear, Cherry, Hawthorn, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.661749,44.544553,,,"Maple, Birch, Pear, Hawthorn, ","Pear, Hawthorn, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.650073,44.555266,,,"Maple, Apple, Crabapple, ","Apple, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.661223,44.537524,,,"Oak, Maple, Ash, Birch, Crabapple, ","Oak, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,3
+,-69.641329,44.555338,,,"Oak, Maple, Ash, Birch, Pear, Cherry, ","Oak, Pear, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,2
+,-69.631768,44.548437,,,"Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering,Call to tell them to turn lights off in June / July,3
+,-69.664114,44.538296,,,"Oak, Maple, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,3
+,-69.657586,44.543767,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Fruiting/Flowering, Manual Removal,3
+,-69.641127,44.558161,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,3
+,-69.661101,44.543418,,,"Oak, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.655078,44.550817,,,"Oak, Maple, Ash, Birch, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.661074,44.538287,,,"Maple, Birch, ","Maple, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.670326,44.548163,,,"Oak, Birch, Serviceberry, ","Oak, Birch, Serviceberry, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.659813,44.543642,,,"Oak, Ash, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.668389,44.549337,,,"Oak, Maple, Ash, Crabapple, ","Oak, Ash, Crabapple, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.655159,44.55124,,,"Oak, Maple, Ash, ","Oak, Maple, Ash, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.661397,44.545136,,,"Oak, Maple, Ash, Birch, Cherry, Hawthorn, ","Birch, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.660389,44.547838,,,"Oak, Maple, Birch, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.657362,44.549571,,,"Oak, Maple, Birch, ","Oak, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.647864,44.546789,,,"Oak, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.652681,44.551506,,,"Birch, ","Birch, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.6482,44.549335,,,"Maple, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.639981,44.550646,,,"Maple, Birch, ","Birch, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.660287,44.547128,,,"Oak, Birch, ","Oak, Birch, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.661564,44.537685,,,"Oak, Maple, Ash, Birch, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.644794,44.544097,,,"Oak, Maple, Ash, Birch, Apple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.655729,44.549882,,,"Oak, Maple, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.636044,44.576402,,,"Maple, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.664057,44.543793,,,"Oak, Maple, Birch, Apple, Crabapple, Hawthorn, ","Apple, Crabapple, Hawthorn, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.63632,44.554893,,,"Cherry, ","Cherry, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.650029,44.554123,,,"Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.644782,44.550975,,,"Maple, Birch, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.64557,44.551078,,,"Maple, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.658456,44.546679,,,"Oak, Maple, Birch, Crabapple, Cherry, Hawthorn, ","Cherry, Hawthorn, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.689079,44.537922,,,"Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.641268,44.556081,,,"Maple, Birch, Crabapple, Cherry, ","Cherry, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.663665,44.543651,,,"Apple, Crabapple, ","Apple, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.66126,44.545853,,,"Maple, Birch, Crabapple, ","Birch, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.630627,44.551787,,,"Ash, Crabapple, ","Ash, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.647681,44.558138,,,"Maple, Crabapple, ","Maple, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.635415,44.57528,,,"Maple, Birch, Crabapple, ","Birch, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.656045,44.551676,,,"Oak, Maple, Birch, Crabapple, ","Oak, Maple, Crabapple, ",3,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,Ornamental,Insert/Injection,
+,-69.657098,44.546286,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.660478,44.540163,,,"Oak, Maple, Birch, Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.670521,44.548684,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.670521,44.548684,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.658909,44.547235,,,"Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.674516,44.550195,,,"Oak, Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.638878,44.548789,,,"Oak, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.656036,44.545311,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.669037,44.548877,,,"Oak, Birch, Apple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.661799,44.537256,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.671433,44.521261,,,"Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.647034,44.549161,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.658118,44.535126,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.645117,44.553404,,,"Maple, Apple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.639117,44.540127,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.647874,44.538664,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.654962,44.543233,,,"Maple, Ash, Birch, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.627258,44.566399,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.648421,44.56697,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.642145,44.539655,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.639582,44.555051,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.634238,44.57535,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.637085,44.576554,,,"Oak, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.674377,44.552834,,,"Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.65589,44.545744,,,"Oak, Maple, Ash, Birch, Pear, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,Y,,,
+,-69.647286,44.549187,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.655654,44.540947,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.637476,44.554747,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.653292,44.554906,,,"Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.645013,44.553737,,,"Maple, Crabapple, Serviceberry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.640901,44.542723,,,"Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.645482,44.557979,,,"Oak, Ash, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.637363,44.560474,,,"Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.654741,44.554438,,,"Maple, Apple, Crabapple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.638006,44.560578,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.637661,44.538807,,,"Oak, Maple, Birch, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.713565,44.513763,,,"Oak, Maple, Ash, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.649965,44.544391,,,"Maple, Ash, Apple, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.628029,44.564896,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.638212,44.55929,,,"Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.652325,44.542145,,,"Maple, Crabapple, ","Maple, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.656372,44.544976,,,"Oak, Maple, Apple, Crabapple, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.636513,44.575513,,,"Apple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.637366,44.552133,,,"Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.637756,44.574578,,,"Oak, Maple, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.642028,44.557585,,,"Maple, Apple, Pear, Cherry, ","Apple, Pear, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.662991,44.543569,,,"Apple, Crabapple, ","Apple, Crabapple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.654447,44.547877,,,"Oak, Maple, Birch, Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.652952,44.553764,,,"Oak, Maple, Ash, Birch, Hawthorn, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.644374,44.556239,,,"Maple, Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.641631,44.555881,,,"Oak, Apple, ","Oak, Apple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.65439,44.551145,,,"Oak, Maple, Ash, ","Oak, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.655512,44.532841,,,"Maple, Birch, Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.651814,44.548824,,,"Oak, Maple, Ash, Birch, Apple, Crabapple, Pear, Cherry, Serviceberry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.674461,44.511651,,,"Oak, Maple, Ash, Birch, Apple, Crabapple, Pear, Cherry, Serviceberry, Hawthorn, ","Apple, Crabapple, Pear, Cherry, Serviceberry, ",5,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.637837,44.552562,,,"Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.680826,44.506117,,,"Maple, Apple, Cherry, ","Apple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.626889,44.5707,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,Y,N,,,
+,-69.651375,44.554601,,,"Oak, Maple, Ash, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.651192,44.553423,,,"Oak, Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.661126,44.538431,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.645608,44.548256,,,"Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.63015,44.557187,,,"Crabapple, ","Crabapple, ",1,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.646765,44.557887,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.635133,44.561562,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.654463,44.5358,,,"Oak, Ash, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.638816,44.561528,,,"Oak, Maple, Birch, Crabapple, Serviceberry, ","Serviceberry, ",1,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.635279,44.551276,,,"Maple, Apple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.635022,44.544349,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.657731,44.547115,,,"Maple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.640557,44.561829,,,"Maple, Ash, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.661131,44.543841,,,"Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.638543,44.5803,,,"Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.628631,44.529517,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.64134,44.562643,,,"Oak, Maple, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.658721,44.540011,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.65652,44.54687,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.64218,44.56281,,,"Oak, Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.641362,44.559779,,,"Maple, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.657976,44.547677,,,"Maple, Birch, Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.643683,44.553565,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.647596,44.555001,,,"Maple, Crabapple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.638146,44.549743,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.644153,44.549889,,,"Apple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,Y,,,
+,-69.640555,44.560474,,,"Maple, Ash, Apple, Pear, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.649959,44.546692,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.628226,44.556896,,,"Oak, Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.646256,44.549954,,,"Apple, Serviceberry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.645876,44.550248,,,"Oak, Maple, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.631943,44.559991,,,"Ash, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.635747,44.542774,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.63794,44.550486,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.655425,44.550847,,,"Maple, Serviceberry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.650101,44.550958,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.641394,44.540578,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.650917,44.552524,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.635651,44.557638,,,"Oak, Maple, Birch, Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.637729,44.550798,,,"Oak, Maple, Birch, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.637193,44.540885,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.636663,44.539029,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.639236,44.561895,,,"Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.673268,44.52102,,,"Maple, Birch, Serviceberry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.64021,44.550267,,,"Maple, Ash, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.634901,44.575544,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.637144,44.547943,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.647021,44.555909,,,"Maple, Ash, Apple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.645603,44.557555,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.655198,44.542984,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.636521,44.559506,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.638445,44.555269,,,"Maple, Ash, Apple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.676661,44.516855,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.654421,44.555066,,,"Apple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.633289,44.558736,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.633816,44.559679,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.640287,44.550955,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.638723,44.562249,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.634679,44.560921,,,"Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.646404,44.549687,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.639209,44.560075,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.650274,44.581206,,,"Oak, Maple, Birch, Apple, Hawthorn, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.638273,44.540622,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.639772,44.555104,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.637755,44.541066,,,"Maple, Ash, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.641385,44.572983,,,"Oak, Maple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.639093,44.552938,,,"Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.632085,44.562042,,,"Maple, Crabapple, Cherry, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.65187,44.547027,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.639648,44.551256,,,"Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.646415,44.549539,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.637223,44.546493,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.642826,44.563184,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.647114,44.544493,,,"Oak, Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.649152,44.548888,,,"Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.641345,44.561941,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.641568,44.561611,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.63323,44.562549,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.637834,44.552364,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.643165,44.56253,,,"Maple, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.647618,44.556441,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.635739,44.55477,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.64969,44.543475,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.649545,44.545123,,,"Maple, Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.635969,44.561413,,,"Crabapple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.644547,44.556499,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,N,N,,,
+,-69.627805,44.56569,,,"Maple, ",,0,,,,,,,,,Citizen Survey  Feb 2022,No,No,,,
+,-69.647373,44.57294,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.637476,44.554747,,,"Maple, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.656161,44.551369,,,"Oak, Maple, Birch, ","Oak, Maple, Birch, ",3,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.650842,44.554226,,,"Ash, ",,2,,,,,,,,,Citizen Survey  Feb 2022,No,No,,,
+,-69.637468,44.555139,,,"Oak, Maple, Ash, Birch, ",,0,,,,,,,,,Citizen Survey  Feb 2022,No,Yes,,,
+,-69.639806,44.552497,,,"Oak, Maple, Ash, Birch, ","Oak, Maple, Ash, ",3,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.640182,44.551154,,,"Maple, ","Maple, ",1,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.647373,44.57294,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.655619,44.550233,,,"Oak, Maple, ","Oak, Maple, ",2,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.625076,44.568972,,,,,0,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,,Insert/Injection,
+,-69.674516,44.550195,,,,"Oak, Maple, Crabapple, ",3,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.641268,44.556081,,,"Maple, Birch, Crabapple, Cherry, ",,,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.65633,44.5499,,,"Oak, Birch, ","Oak, Birch, ",,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.63965,44.55899,,,"Oak, Maple, Ash, Crabapple, ","Oak, Maple, Ash, Crabapple, ",,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.67416,44.54855,,,"Oak, ","Oak, ",,,,,,,,,,Citizen Survey  Feb 2022,Yes,Yes,Ornamental,Insert/Injection,
+,-69.679596,44.509692,Oak,Continuous,,,,,,,,,,500-999,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.663829,44.529162,Maple,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.654267,44.534331,Oak,Continuous,,,,,,,,,,500-999,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.658993,44.556211,Oak,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.655218,44.552073,Oak,Patchy,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.661264,44.562742,Oak,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.673118,44.548565,Oak,Continuous,,,,,,,,,,1000-4999,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.676892,44.550539,Oak,Continuous,,,,,,,,,,500-999,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.666891,44.56439,Oak,Continuous,,,,,,,,,,500-999,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.660862,44.567792,Oak,Patchy,,,,,,,,,,10-99,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.649482,44.566065,Oak,Continuous,,,,,,,,,,500-999,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.653691,44.568677,Oak,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.653691,44.568677,Oak,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.648023,44.581446,Oak,Patchy,,,,,,,,,,10-99,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.644022,44.576472,Oak,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.661636,44.542792,Oak,Patchy,,,,,,,,,,10-99,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.640377,44.57088,Oak,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.637458,44.566048,Oak,Patchy,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.63196,44.555783,Oak,Patchy,,,,,,,,,,10-99,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.632225,44.551624,Oak,Patchy,,,,,,,,,,10-99,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.635816,44.5465,Oak,Patchy,,,,,,,,,,10-99,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.641063,44.543434,Oak,Continuous,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.648855,44.540224,Oak,Patchy,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.661636,44.542792,Oak,Patchy,,,,,,,,,,10-99,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
+,-69.670174,44.544284,Oak,Patchy,,,,,,,,,,100-499,,MSFS Winter Web Survey,Y,,Ornamental,Insert/Injection,
